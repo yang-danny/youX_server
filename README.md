@@ -1,4 +1,4 @@
-# Asset Finance Management Platform
+# Asset Finance Management Platform -- Server
   -This is the Assessment Task for youX
   
   -Deployed on Amazon EC2: http://13.55.193.64:3000/api
