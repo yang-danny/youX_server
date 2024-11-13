@@ -36,7 +36,7 @@ npm run dev
 
 
 # CI/CD
--Github Action
+-Github Actions
 
 -Amazon EC2
 
