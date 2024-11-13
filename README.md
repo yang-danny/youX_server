@@ -1,5 +1,6 @@
 # Asset Finance Management Platform
   -This is the Assessment Task for youX
+  
   -Deployed on Amazon EC2: http://13.55.193.64:3000/api
 
 # How to start the project
@@ -20,12 +21,19 @@ npm run dev
 
 # Technical stacks
 -MongoDB serverless cluster
+
 -Mongoose ORM for queries
+
 -RESTful API based on Express
+
 -Node.js server framework for CRUD
+
 -JWT token authentication
+
 -bcrypt for password hash
+
 -Morgan and Logger for logging and monitoring to track application usage and errors.
+
 
 # CI/CD
 -Github Action
