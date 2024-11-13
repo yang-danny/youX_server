@@ -37,6 +37,9 @@ npm run dev
 
 # CI/CD
 -Github Action
+
 -Amazon EC2
+
 -Nigix
+
 -PM2
